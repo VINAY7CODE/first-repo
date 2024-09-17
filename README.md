@@ -1,3 +1,3 @@
 # first-repo
 this is my first repository
-author: vinay chavada
+author: vinay chavada (its me)
